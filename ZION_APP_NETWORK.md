@@ -1,21 +1,12 @@
-# Zion App Network — Interlinks
+# Zion App Network — Interlinks for vendor-onboarding-copilot
 
-This app is part of the **Zion Tech Group App Network** (800+ AI-powered business apps).
+Vendor Onboarding Copilot is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- Network hub: https://zion-support.github.io/zion-app-network/
-- Directory & catalog: https://github.com/Zion-support/zion-app-network
-- Homepage: https://ziontechgroup.com/
-- Latest releases & spotlights: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- Live app: https://ziontechgroup.com/vendor-onboarding-copilot/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 53 spotlight (Revenue Protection & Operations Signals): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
 
-## Related apps
-- [Vendor Risk Scorecard](https://ziontechgroup.com/vendor-risk-scorecard/)
-- [Vendor DPA Checker](https://ziontechgroup.com/vendor-dpa-checker/)
-- [Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/)
-- [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/)
-- [AI Procurement Copilot](https://ziontechgroup.com/ai-procurement-copilot/)
-- [Vendor Matrix Compare](https://ziontechgroup.com/vendor-matrix-compare/)
+## Related revenue protection apps
+[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
 
-## About this app
-**Vendor Onboarding Copilot** — live at https://ziontechgroup.com/vendor-onboarding-copilot/ — source: https://github.com/Zion-support/vendor-onboarding-copilot
-
-Contact: commercial@ziontechgroup.com
+© 2026 Zion Tech Group · https://ziontechgroup.com
