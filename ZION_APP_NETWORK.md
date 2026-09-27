@@ -9,4 +9,8 @@ Vendor Onboarding Copilot is part of the [Zion App Network](https://ziontechgrou
 ## Related revenue protection apps
 [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
 
+## 🌟 HR & Workforce Suite (GitHub)
+- [AI Assessment Engine](https://github.com/Zion-support/ai-assessment-engine) · [AI Automated Booking](https://github.com/Zion-support/ai-automated-booking) · [AI Project Tracker](https://github.com/Zion-support/ai-project-tracker) · [Report Scheduler AI](https://github.com/Zion-support/report-scheduler-ai) · [Feedback Loop AI](https://github.com/Zion-support/feedback-loop-ai)
+- Suite spotlight: [hr-workforce-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/hr-workforce-suite.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com
